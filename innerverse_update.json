@@ -2,6 +2,6 @@
   "latestVersion": "1.0.1",
   "stores": {
     "huawei": "appmarket://details?id=com.NovaSphereStudio.innerverse",
-    "default": "https://www.example.com/path/to/innerverse-1.0.1.apk"
+    "apkPure": "https://apkpure.com/your-app-page-link"
   }
 }
