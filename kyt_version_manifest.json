@@ -1,1 +1,9 @@
+{
+  "latestVersion": "1.0.5",
+  "buildNumber": 105,
+  "isCritical": true,
+  "downloadUrl": "https://novaspherestudiodev.github.io/novasphere-legal/portfolio.html",
+  "releaseNotes": "- Added Payment Methods\n- Fixed Invoice PDF Logo",
+  "validSignatureHash": "BF:9C:C4:09:4E:67:89:DD:B0:77:AD:A3:7F:E4:39:65:85:F3:5B:8C:11:7C:A8:07:EE:50:FF:84:A1:78:63:C2"
+}
 
