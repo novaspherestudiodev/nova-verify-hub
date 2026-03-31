@@ -1,8 +1,8 @@
 {
   "windows": {
-    "latestVersion": "1.0.0",
-    "buildNumber": 1,
-    "isCritical": false,
+    "latestVersion": "3.0.0",
+    "buildNumber": 3,
+    "isCritical": ture,
     "releaseNotes": "- Added Payment Methods\n- Fixed Invoice PDF Logo",
     "downloadUrl": "https://novaspherestudiodev.github.io/downloads/novabiz_os_windows.exe",
     "validSignatureHash": "WIN:9C:C4:09:4E:67:89:DD:B0:77:AD:A3:7F:E4:39:65:85"
