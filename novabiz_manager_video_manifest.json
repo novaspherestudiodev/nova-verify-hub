@@ -1,0 +1,94 @@
+{
+  "global":[
+    {
+      "title": "System Genesis & Multiverse",
+      "description": "Learn how to establish your Headquarters, set your Base Currency, and navigate the Multiverse Selector to manage multiple empires.",
+      "duration": "03:15",
+      "url": "https://www.youtube.com/watch?v=your_video_id_here"
+    },
+    {
+      "title": "Security: Mirage & Phoenix",
+      "description": "Master the Biometric Airlock, configure your Fake Duress PIN (Theatre of Poverty), and understand the Nuclear Kill Switch.",
+      "duration": "04:30",
+      "url": "https://www.youtube.com/watch?v=your_video_id_here"
+    },
+    {
+      "title": "Command Center & Settings",
+      "description": "Navigate the tactical grid, renew your Mercenary Contract, and edit your Corporate Identity.",
+      "duration": "02:10",
+      "url": "https://www.youtube.com/watch?v=your_video_id_here"
+    }
+  ],
+  "merchant":[
+    {
+      "title": "Kinetic POS Mastery",
+      "description": "How to execute fast cash sales, issue credit, and utilize the NLP Command Bar (e.g., typing 'Sold 2 Rice').",
+      "duration": "05:00",
+      "url": "https://www.youtube.com/watch?v=your_video_id_here"
+    },
+    {
+      "title": "Assimilation Engine",
+      "description": "Importing thousands of items from messy Excel/CSV files using the Neural Synapse Drag-and-Drop Router.",
+      "duration": "06:20",
+      "url": "https://www.youtube.com/watch?v=your_video_id_here"
+    },
+    {
+      "title": "Forex Defense Lab",
+      "description": "Learn how to split your profit into 'Merchant Skill' and 'Inflation Drift' using the Prism Analyzer.",
+      "duration": "03:45",
+      "url": "https://www.youtube.com/watch?v=your_video_id_here"
+    },
+    {
+      "title": "Cargo Airlock & Van Mode",
+      "description": "Equipping your Van with specific inventory manifests and triggering the Burst Scanner for rapid loading.",
+      "duration": "04:10",
+      "url": "https://www.youtube.com/watch?v=your_video_id_here"
+    }
+  ],
+  "creator":[
+    {
+      "title": "Chronos Session Management",
+      "description": "How to track billable time, activate the Flux Reactor, and apply rounding physics to your hourly rates.",
+      "duration": "04:15",
+      "url": "https://www.youtube.com/watch?v=your_video_id_here"
+    },
+    {
+      "title": "Smart Proposals & Up-selling",
+      "description": "Generating the Gold/Silver/Bronze Tiered Quotes and converting accepted links into active projects.",
+      "duration": "05:30",
+      "url": "https://www.youtube.com/watch?v=your_video_id_here"
+    },
+    {
+      "title": "The Digital Vault",
+      "description": "Encrypting final deliverables (Logos, Documents) and holding them hostage until the Orbital Relay confirms client payment.",
+      "duration": "03:50",
+      "url": "https://www.youtube.com/watch?v=your_video_id_here"
+    }
+  ],
+  "builder":[
+    {
+      "title": "The Blueprint Estimator",
+      "description": "Using parametric templates from the Codex to instantly calculate Bills of Materials for walls, roofing, and wiring.",
+      "duration": "06:45",
+      "url": "https://www.youtube.com/watch?v=your_video_id_here"
+    },
+    {
+      "title": "Muster Roll & Labor Burn",
+      "description": "Checking in your crew, calculating daily wage bleed, and sealing the shift into the Project Ledger.",
+      "duration": "03:20",
+      "url": "https://www.youtube.com/watch?v=your_video_id_here"
+    },
+    {
+      "title": "Site Diary & Evidence Locker",
+      "description": "Photo-logging construction progress and bundling artifacts to generate an Application for Payment PDF.",
+      "duration": "04:40",
+      "url": "https://www.youtube.com/watch?v=your_video_id_here"
+    },
+    {
+      "title": "Variation Orders (Scope Defense)",
+      "description": "Protecting your profit margin by forcing clients to digitally sign the glass when requesting extra work.",
+      "duration": "02:55",
+      "url": "https://www.youtube.com/watch?v=your_video_id_here"
+    }
+  ]
+}
