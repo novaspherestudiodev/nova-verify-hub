@@ -1,0 +1,34 @@
+{
+  "global": [
+    {
+      "title": "System Genesis & Matrix Setup",
+      "description": "Learn how to establish your Headquarters, set your Base Currency, and navigate the initial lockdown.",
+      "duration": "03:15",
+      "url": "https://www.youtube.com/watch?v=your_video_id"
+    }
+  ],
+  "hotel": [
+    {
+      "title": "Mastering the Core Grid",
+      "description": "How to drag and drop bookings, handle overstays, and access the Temporal Inspector.",
+      "duration": "05:00",
+      "url": "https://www.youtube.com/watch?v=your_video_id"
+    }
+  ],
+  "hospital": [
+    {
+      "title": "Bio-Decay & Patient Matrix",
+      "description": "A guide to medical asset expiration tracking and clinical appointment handling.",
+      "duration": "04:30",
+      "url": "https://www.youtube.com/watch?v=your_video_id"
+    }
+  ],
+  "salon": [
+    {
+      "title": "Chair Turnaround & Upselling",
+      "description": "Learn how to sell add-on services and track custom styling perks.",
+      "duration": "03:50",
+      "url": "https://www.youtube.com/watch?v=your_video_id"
+    }
+  ]
+}
