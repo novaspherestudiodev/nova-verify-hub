@@ -6,7 +6,7 @@
     "isCritical": false,
     "releaseNotes": "- Added Payment Methods\n- Fixed Invoice PDF Logo",
     "downloadUrl": "https://novaspherestudiodev.github.io/novasphere-legal/portfolio.html",
-    "validSignatureHash": "WIN:9C:C4:09:4E:67:89:DD:B0:77:AD:A3:7F:E4:39:65:85"
+    "validSignatureHash": "NBZ:MG:WIN:9C:C4:09:4E:67:89:DD:B0:77:AD:A3:7F:E4:39:65:85"
   },
 
   "android": {
@@ -15,6 +15,6 @@
     "isCritical": false,
     "releaseNotes": "- Added Payment Methods\n- Fixed Invoice PDF Logo",
     "downloadUrl": "https://novaspherestudiodev.github.io/downloads/novabiz_os_android.apk",
-    "validSignatureHash": "AND:B0:77:AD:A3:7F:E4:39:65:85:F3:5B:8C:11:7C:A8:07"
+    "validSignatureHash": "NBZ:MG:AND:B0:77:AD:A3:7F:E4:39:65:85:F3:5B:8C:11:7C:A8:07"
   }
 }
